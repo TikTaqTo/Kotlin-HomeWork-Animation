@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AnimationHomeWork</string>
+
+    <string name="alpha">Alpha</string>
+    <string name="combination">Combination</string>
+    <string name="rotate">Rotate</string>
+    <string name="scale">Scale</string>
+    <string name="translate">Translate</string>
+</resources>
